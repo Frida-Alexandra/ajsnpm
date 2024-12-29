@@ -1,0 +1,20 @@
+{
+  "name": "@frida-alexandra/3",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Frida-Alexandra/ajs-3#readme",
+  "bugs": {
+    "url": "https://github.com/Frida-Alexandra/ajs-3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Frida-Alexandra/ajs-3.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ddist/index.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
